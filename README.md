@@ -1,8 +1,9 @@
-# Hi there, I'm Praju 👋  
+<h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Prajakta Ahirrao</span> 👋</h1>
 
 💻 Learning | Exploring **Java, DSA, and Web Development** | Open to Collaboration  
 
 ---
+
 
 ## 🚀 About Me  
 - 🎓 Engineering student in **Artificial Intelligence & Data Science**  
