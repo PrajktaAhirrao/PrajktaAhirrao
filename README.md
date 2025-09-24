@@ -1,6 +1,9 @@
-<h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Prajakta Ahirrao</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Prajakta Ahirrao</span></h1>
 
-💻 Learning | Exploring **Java, DSA, and Web Development** | Open to Collaboration  
+<p align="center">
+  💻 | Learning & Growing with <b>Java • DSA • Web Development</b> | 🚀 Open to Collaboration |
+</p>
+
 
 ---
 
