@@ -30,17 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajktaAhirrao&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajktaAhirrao&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajktaAhirrao&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 <p>
   <a href="https://www.linkedin.com/in/prajktaahirrao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -48,6 +37,3 @@
   <a href="https://www.instagram.com/prajkta.ahirrao/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
-
-✨ *Thanks for visiting my profile! Let’s connect and grow together.* 🚀
