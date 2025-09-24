@@ -6,14 +6,15 @@
 
 ---
 
+## About Me  
 
-## 🚀 About Me  
-- 🎓 Engineering student in **Artificial Intelligence & Data Science**  
-- 🌱 Currently improving my skills in **Java + DSA + Projects**   
-- 💡 Interested in **AI, Machine Learning, and Blockchain**  
-- ⚡ Love to build projects, solve problems, and share knowledge  
+- I am an engineering student specializing in **Artificial Intelligence and Data Science**.  
+- Currently enhancing my skills in **Java, Data Structures & Algorithms, and project development**.  
+- I have a keen interest in **Artificial Intelligence, Machine Learning, and Blockchain technologies**.  
+- I enjoy building projects, solving real-world problems, and sharing knowledge with others.  
 
 ---
+
 
 ## 🛠️ Languages & Tools  
 <p>
@@ -28,14 +29,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-
----
-
-## 📌 Featured Projects  
-- 🌊 [DWLR Dashboard](#) – Web app for analyzing water level data and detecting anomalies  
-- 🎭 [Event Management System](#) – College event scheduling & participation system  
-- 🖼️ [Public Image Gallery](#) – Website for browsing & downloading images  
-- 🚗 [IoT Smart Headlights](#) – Arduino + RFID based highway vehicle headlight system  
 
 ---
 
